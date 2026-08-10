@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: reyting-kazino-s-horoshey-reputaciey.github.io
+Sitemap: https://reyting-kazino-s-horoshey-reputaciey.github.io/sitemap.xml
